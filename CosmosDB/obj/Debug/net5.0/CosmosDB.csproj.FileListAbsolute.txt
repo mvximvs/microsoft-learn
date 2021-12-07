@@ -1,0 +1,16 @@
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.AssemblyInfoInputs.cache
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.AssemblyInfo.cs
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.csproj.CoreCompileInputs.cache
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.exe
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.deps.json
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.runtimeconfig.json
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.runtimeconfig.dev.json
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.dll
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\ref\CosmosDB.dll
+C:\microsoft-learn\CosmosDB\bin\Debug\net5.0\CosmosDB.pdb
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.csprojAssemblyReference.cache
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.dll
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\ref\CosmosDB.dll
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.pdb
+C:\microsoft-learn\CosmosDB\obj\Debug\net5.0\CosmosDB.genruntimeconfig.cache
